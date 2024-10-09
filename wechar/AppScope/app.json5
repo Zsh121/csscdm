@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.example.wechar",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:wechar",
+    "label": "$string:app_name"
+  }
+}
